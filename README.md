@@ -5,7 +5,7 @@
 - **Name:** Tawhid
 - **Symbol:** RBInc
 - **Decimals:** 18
-- **Total Supply:** 100,000,000 
+- **Total Supply:** 100,000,000.000 
 
 ## Description 
 
